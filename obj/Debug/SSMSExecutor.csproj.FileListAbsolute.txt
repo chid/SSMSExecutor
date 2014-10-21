@@ -1,0 +1,16 @@
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\obj\Debug\SSMSExecutor.csprojResolveAssemblyReference.cache
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\SSMSExecutor.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\SSMSExecutor.pdb
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\sqlmgmt.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\SqlPackageBase.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\SqlWorkbench.Interfaces.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\Microsoft.AnalysisServices.Graphing.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\Microsoft.SqlServer.Management.Controls.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\Microsoft.SqlServer.Management.UserSettings.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\Microsoft.SqlServer.Management.SqlStudio.Controls.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\Microsoft.SqlServer.Management.SDK.SqlStudio.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\Microsoft.DataWarehouse.SQM.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\Microsoft.SqlServer.Sqm.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\bin\Debug\ConnectionDlg.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\obj\Debug\SSMSExecutor.dll
+C:\Users\Charley\Downloads\ssmsexecutor-29131\SSMSExecutor\obj\Debug\SSMSExecutor.pdb
